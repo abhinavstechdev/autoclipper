@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+yt-dlp
+faster-whisper
+pyannote.audio
+opencv-python-headless
+ffmpeg-python
+ollama
+requests
