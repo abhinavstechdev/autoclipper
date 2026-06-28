@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-faster-whisper
-opencv-python
-yt-dlp
-sqlalchemy
-requests
-ffmpeg-python
-python-multipart
